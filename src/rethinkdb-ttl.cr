@@ -1,0 +1,2 @@
+module Rethinkdb::Ttl
+end

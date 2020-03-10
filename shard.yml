@@ -1,0 +1,15 @@
+name: rethinkdb-ttl
+version: 0.1.0
+crystal: 0.33.0
+license: MIT
+
+authors:
+  - Caspian Baska <caspianbaska@gmail.com>
+
+targets:
+  rethinkdb-ttl:
+    main: src/rethinkdb-ttl.cr
+
+dependencies:
+  rethinkdb:
+    github: aca-labs/crystal-rethinkdb

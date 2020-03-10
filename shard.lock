@@ -1,0 +1,14 @@
+version: 1.0
+shards:
+  habitat:
+    github: luckyframework/habitat
+    version: 0.4.3
+
+  rethinkdb:
+    github: aca-labs/crystal-rethinkdb
+    version: 0.2.0
+
+  retriable:
+    github: sija/retriable.cr
+    version: 0.2.0
+
